@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDavidCodes
 - 👀 I’m interested in Coding and Web Development
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering and Web Development 
 - 📫 How to reach me davidmnzi259@gmail.com
 
 <!---
